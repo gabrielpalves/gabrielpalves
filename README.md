@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel (@gabrielpalves)
 - 👀 I’m interested in Coding, AI, Data Analysis, Structural Engineering, Optimization and Reliability
-- 🌱 I am currently a PhD student in Civil Engineering at UFSC
+- 🌱 I am currently a Post-Doc in Civil Engineering at UFSC
 - 💞️ I’m looking to collaborate on MATLAB or Python Projects
 - 📫 How to reach me: gpadilhaalves@gmail.com
 
